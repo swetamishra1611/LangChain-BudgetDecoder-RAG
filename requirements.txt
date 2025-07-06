@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+transformers
+torch
+bs4 # beautifulsoup4, needed by WebBaseLoader
